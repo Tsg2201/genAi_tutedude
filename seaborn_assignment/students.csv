@@ -1,0 +1,201 @@
+gender,race/ethnicity,parental level of education,math score,reading score,writing score
+male,group C,associate's,84,51,93
+female,group D,associate's,71,48,40
+male,group C,master's,91,46,57
+male,group A,high school,69,67,71
+male,group D,associate's,86,53,86
+female,group A,associate's,74,70,88
+male,group D,bachelor's,94,91,50
+male,group D,associate's,79,58,60
+male,group B,associate's,91,97,65
+female,group A,bachelor's,55,86,64
+male,group C,master's,52,55,61
+male,group C,associate's,89,92,98
+male,group A,bachelor's,99,44,66
+male,group C,high school,81,74,88
+female,group C,master's,69,51,52
+male,group A,high school,58,64,72
+female,group D,high school,56,91,73
+female,group A,bachelor's,95,98,80
+female,group D,associate's,58,60,74
+male,group C,bachelor's,67,75,40
+female,group C,bachelor's,97,92,60
+male,group C,bachelor's,94,62,87
+female,group B,bachelor's,65,55,94
+female,group D,master's,76,96,45
+female,group B,associate's,65,78,67
+female,group B,high school,92,84,56
+female,group A,high school,62,92,44
+female,group B,associate's,48,81,70
+female,group A,high school,51,97,44
+female,group A,associate's,92,78,77
+male,group B,high school,40,53,42
+male,group D,bachelor's,97,70,92
+female,group D,high school,97,97,62
+female,group D,associate's,40,44,76
+female,group D,associate's,86,74,92
+male,group D,associate's,73,62,76
+female,group B,associate's,71,68,49
+male,group B,associate's,93,82,49
+male,group C,master's,87,50,58
+male,group D,master's,64,57,56
+male,group B,high school,79,86,60
+male,group C,associate's,84,51,53
+female,group D,high school,92,48,48
+female,group A,associate's,40,49,85
+female,group C,associate's,55,97,40
+female,group B,master's,78,83,90
+female,group A,master's,44,56,84
+male,group A,bachelor's,61,77,52
+female,group A,master's,68,46,43
+female,group C,bachelor's,94,85,40
+male,group B,bachelor's,42,52,88
+female,group A,bachelor's,51,79,79
+male,group D,bachelor's,65,81,71
+female,group A,bachelor's,55,48,73
+male,group A,high school,90,89,67
+female,group C,master's,76,66,70
+female,group C,bachelor's,61,97,47
+male,group B,associate's,96,41,78
+male,group D,master's,68,44,65
+male,group C,master's,53,68,97
+male,group A,bachelor's,67,76,73
+male,group B,high school,44,77,93
+male,group A,bachelor's,86,58,93
+male,group A,high school,88,47,42
+male,group C,associate's,69,87,98
+female,group B,master's,85,84,89
+female,group D,associate's,91,40,51
+male,group D,high school,44,61,40
+female,group C,high school,51,91,93
+female,group C,associate's,55,56,83
+female,group B,high school,65,46,44
+female,group D,associate's,65,64,69
+male,group D,master's,87,84,69
+female,group D,associate's,60,43,98
+male,group A,master's,78,75,96
+female,group D,associate's,75,45,56
+female,group A,high school,72,99,87
+female,group B,associate's,69,70,86
+male,group A,high school,76,58,62
+female,group B,associate's,62,83,54
+male,group D,associate's,97,93,76
+female,group D,bachelor's,49,78,60
+male,group B,high school,93,66,53
+female,group C,bachelor's,44,49,41
+male,group B,high school,75,65,50
+male,group C,bachelor's,73,58,90
+female,group A,master's,91,78,78
+male,group A,associate's,70,42,77
+female,group A,high school,49,84,99
+female,group D,high school,97,52,73
+female,group A,associate's,58,89,77
+female,group C,high school,97,67,89
+female,group A,high school,71,97,73
+female,group B,bachelor's,40,59,57
+female,group B,high school,95,67,69
+female,group D,master's,44,47,54
+female,group B,master's,84,80,66
+female,group C,associate's,43,78,90
+female,group A,high school,55,40,73
+male,group D,associate's,63,42,91
+male,group A,master's,55,52,96
+female,group A,high school,94,67,77
+female,group C,high school,41,96,72
+female,group B,associate's,88,99,63
+female,group B,master's,67,88,54
+female,group A,high school,71,64,99
+female,group D,associate's,66,95,69
+female,group B,master's,59,72,94
+female,group D,associate's,63,77,81
+male,group B,bachelor's,51,92,90
+female,group D,high school,89,45,56
+male,group C,bachelor's,74,97,44
+female,group D,master's,99,83,68
+female,group C,bachelor's,72,84,43
+male,group C,bachelor's,72,71,49
+female,group D,master's,90,84,95
+male,group C,associate's,82,86,56
+female,group A,bachelor's,76,60,49
+female,group C,associate's,51,55,56
+male,group B,bachelor's,42,93,99
+female,group D,associate's,40,60,59
+male,group A,master's,72,50,63
+female,group D,bachelor's,79,99,44
+male,group B,master's,49,76,73
+male,group B,bachelor's,82,75,45
+female,group B,master's,83,74,92
+female,group C,master's,68,58,41
+male,group C,bachelor's,52,59,52
+female,group D,bachelor's,51,96,82
+female,group D,bachelor's,70,57,82
+female,group A,high school,85,86,87
+male,group A,associate's,41,80,50
+male,group D,high school,90,88,90
+male,group C,high school,89,53,86
+male,group B,master's,74,54,96
+male,group D,bachelor's,62,70,62
+male,group A,associate's,56,40,94
+male,group C,master's,65,92,55
+male,group D,high school,47,93,70
+male,group D,bachelor's,68,93,50
+female,group C,master's,65,42,93
+male,group D,bachelor's,49,55,55
+female,group C,master's,65,62,47
+female,group B,bachelor's,73,96,43
+female,group C,high school,90,50,79
+male,group C,associate's,80,51,43
+male,group C,high school,46,49,95
+male,group D,associate's,43,71,64
+male,group D,bachelor's,97,55,42
+female,group C,master's,92,47,71
+male,group D,high school,89,77,42
+male,group A,associate's,84,51,66
+male,group A,high school,50,63,68
+male,group D,associate's,68,67,71
+male,group D,high school,95,92,89
+female,group C,associate's,75,47,97
+male,group B,associate's,64,97,90
+female,group D,bachelor's,60,67,58
+male,group A,associate's,96,75,60
+female,group C,bachelor's,75,65,44
+male,group D,associate's,49,47,57
+male,group A,master's,76,97,67
+female,group A,master's,48,99,81
+female,group B,master's,63,89,61
+female,group C,associate's,74,67,60
+male,group C,bachelor's,88,67,45
+female,group B,bachelor's,74,76,40
+male,group B,associate's,87,80,44
+male,group C,master's,75,75,80
+female,group C,master's,57,66,51
+female,group D,bachelor's,88,93,65
+male,group D,master's,78,56,85
+male,group B,high school,71,48,73
+female,group D,bachelor's,63,72,88
+female,group A,master's,62,92,53
+female,group D,bachelor's,71,59,65
+male,group D,high school,76,52,84
+male,group A,bachelor's,51,67,66
+male,group B,bachelor's,88,87,48
+male,group A,bachelor's,94,68,65
+male,group D,bachelor's,52,52,96
+male,group B,high school,62,85,86
+female,group D,associate's,64,74,96
+male,group A,bachelor's,74,45,61
+male,group A,bachelor's,80,57,86
+male,group D,master's,69,90,95
+female,group C,bachelor's,56,44,69
+male,group C,master's,88,86,82
+male,group A,associate's,59,64,87
+female,group A,high school,87,41,56
+male,group C,high school,64,49,65
+male,group C,associate's,61,95,75
+male,group D,high school,52,69,40
+male,group D,associate's,98,89,47
+male,group C,associate's,58,98,88
+female,group D,associate's,88,84,74
+female,group D,high school,75,44,91
+female,group B,master's,51,94,54
+male,group D,associate's,80,95,86
+male,group A,bachelor's,58,72,95
